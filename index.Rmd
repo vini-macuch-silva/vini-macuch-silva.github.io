@@ -22,7 +22,7 @@ I'm a doctoral researcher in the [Cognitive Modeling group at the Institute of C
 
 I'm broadly interested in the interplay between language, cognition, and interaction, especially as it pertains to the construction and management of meaning in communication. In my research I try to explore how pressures from both individual cognition and communicative interaction shape the usage and organization of human language, e.g.:
 
-* how different sorts of linguistic, semiotic, and contextual cues modulate people's discourse expectations and in turn affect their comprehension of language and their ascription of actions and mental states;
+* how different sorts of semiotic cues -- both linguistic and non-linguistic -- modulate people's discourse expectations and in turn affect their comprehension of language and their ascription of actions and mental states;
 
 * how pragmatic and interactional aspects of human communication affect the emergence and evolution of linguistic meaning and structure in the first place.
 
