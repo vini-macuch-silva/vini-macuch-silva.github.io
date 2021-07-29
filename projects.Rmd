@@ -17,22 +17,25 @@ h1 {
 
 **Ongoing**
 
-* Investigating the processing of questions with epistemic biases in English. [[**OSF project**]](https://osf.io/7a2jk/) 
+* Interpreting metaphors containing stance-marking adjectives and adverbs in English. [[**OSF project**]](https://osf.io/b3wem/) 
+<p style="text-align:right">with Mekselina Doganc</p>
+
+* Processing polar questions in contexts with varying epistemic biases in English. [[**OSF project**]](https://osf.io/7a2jk/) 
 <p style="text-align:right">with [E Jamieson](https://ejamieson.com/)</p>
 
-* Prediction in the processing of English metaphoric expressions containing modal stance adjectives. [[**OSF project**]](https://osf.io/5v9xf/) 
+* Processing metaphors containing stance-marking adjectives in English. [[**OSF project**]](https://osf.io/5v9xf/) 
 <p style="text-align:right">with Ffion Roberts and [Hannah Rohde](http://www.lel.ed.ac.uk/~hrohde/)</p>
 
-* Strategic quantifier use in the production of German referring expressions in manipulative contexts.  
+* Producing referring expressions containing scalars quantifiers in manipulative contexts in German.  
 <p style="text-align:right">with [Chris Cummins](http://www.crcummins.com/) and [Michael Franke](http://www.home.uni-osnabrueck.de/michfranke/index.html)</p>
 
-* Prediction in the processing of German referring expressions containing interpersonal discourse particles.  
+* Processing referring expressions containing interpersonal discourse particles in German.  
 <p style="text-align:right">with [Laine Stranahan](http://www.lainestranahan.com/), Mathias Stöber, [Michael Franke](http://www.home.uni-osnabrueck.de/michfranke/index.html), and [Timo Roettger](https://timo-roettger.weebly.com/)</p>
 
 
 **Finished** 
 
-* Prediction in the processing of German referring expressions containing scalar quantifiers.  
+* Processing referring expressions containing scalar quantifiers in German.  
 <p style="text-align:right">with [Michael Franke](http://www.home.uni-osnabrueck.de/michfranke/index.html)</p>
 
 * Multimodality and the emergence of a new communication system in face-to-face interaction. [[**code + coded data**]](https://github.com/seannyD/multimodalCommunicationGame) [[**paper**]](https://dx.doi.org/10.1098/rsos.182056)
