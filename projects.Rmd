@@ -17,30 +17,29 @@ h1 {
 
 **Ongoing**
 
-* Interpreting metaphors containing stance-marking adjectives and adverbs in English. [[**OSF project**]](https://osf.io/b3wem/) 
-<p style="text-align:right">with Mekselina Doganc</p>
+* <span style="float:left">Interpreting metaphors containing stance-marking adjectives and adverbs in English.<br>with Mekselina Doganc [[**OSF project**]](https://osf.io/b3wem/)</span><div style="clear:both"></div>
 
-* Processing polar questions in contexts with varying epistemic biases in English. [[**OSF project**]](https://osf.io/7a2jk/) 
-<p style="text-align:right">with [E Jamieson](https://ejamieson.com/)</p>
+* <span style="float:left">Processing polar questions in contexts with varying epistemic biases in English and German.<br>with [E Jamieson](https://ejamieson.com/) [[**OSF project English**]](https://osf.io/7a2jk/)[[**OSF project German**]](https://osf.io/2ndf3/)</span>
+<div style="clear:both"></div>
 
-* Processing metaphors containing stance-marking adjectives in English. [[**OSF project**]](https://osf.io/5v9xf/) 
-<p style="text-align:right">with Ffion Roberts and [Hannah Rohde](http://www.lel.ed.ac.uk/~hrohde/)</p>
+* <span style="float:left">Processing metaphors containing stance-marking adjectives in English.<br>with Ffion Roberts and [Hannah Rohde](http://www.lel.ed.ac.uk/~hrohde/) [[**OSF project**]](https://osf.io/5v9xf/)</span> 
+<div style="clear:both"></div>
 
-* Producing referring expressions containing scalars quantifiers in manipulative contexts in German.  
-<p style="text-align:right">with [Chris Cummins](http://www.crcummins.com/) and [Michael Franke](http://www.home.uni-osnabrueck.de/michfranke/index.html)</p>
+* <span style="float:left">Producing referring expressions containing scalars quantifiers in manipulative contexts in German.<br>with [Chris Cummins](http://www.crcummins.com/) and [Michael Franke](http://www.home.uni-osnabrueck.de/michfranke/index.html)</span>
+<div style="clear:both"></div>
 
-* Processing referring expressions containing interpersonal discourse particles in German.  
-<p style="text-align:right">with [Laine Stranahan](http://www.lainestranahan.com/), Mathias Stöber, [Michael Franke](http://www.home.uni-osnabrueck.de/michfranke/index.html), and [Timo Roettger](https://timo-roettger.weebly.com/)</p>
+* <span style="float:left">Processing referring expressions containing discourse particles in German.<br>with [Laine Stranahan](http://www.lainestranahan.com/), Mathias Stöber, [Michael Franke](http://www.home.uni-osnabrueck.de/michfranke/index.html), and [Timo Roettger](https://timo-roettger.weebly.com/)</span>
+<div style="clear:both"></div>
 
 
 **Finished** 
 
-* Processing referring expressions containing scalar quantifiers in German.  
-<p style="text-align:right">with [Michael Franke](http://www.home.uni-osnabrueck.de/michfranke/index.html)</p>
+* <span style="float:left">Processing referring expressions containing scalar quantifiers in German.  
+<be>with [Michael Franke](http://www.home.uni-osnabrueck.de/michfranke/index.html)</span>
+<div style="clear:both"></div>
 
-* Multimodality and the emergence of a new communication system in face-to-face interaction. [[**code + coded data**]](https://github.com/seannyD/multimodalCommunicationGame) [[**paper**]](https://dx.doi.org/10.1098/rsos.182056)
-<p style="text-align:right">with [Aslı Özyürek](https://www.mpi.nl/people/ozyurek-asli), [Judith Holler](https://www.mpi.nl/people/holler-judith), and [Séan G. Roberts](https://www.cardiff.ac.uk/people/view/1742244-)</p>
+* <span style="float:left">Multimodality and the emergence of a new communication system in face-to-face interaction.<br>with [Aslı Özyürek](https://www.mpi.nl/people/ozyurek-asli), [Judith Holler](https://www.mpi.nl/people/holler-judith), and [Séan Roberts](https://www.cardiff.ac.uk/people/view/1742244-)</span>
+<div style="clear:both"></div>
 
-
-* Interaction and the emergence of systematic linguistic structure.   
-<p style="text-align:right">with [Séan G. Roberts](https://www.cardiff.ac.uk/people/view/1742244-)</p>
+* <span style="float:left">Interaction and the emergence of systematic linguistic structure.<br>with [Séan Roberts](https://www.cardiff.ac.uk/people/view/1742244-)</span>
+<div style="clear:both"></div>

@@ -43,8 +43,6 @@ Experimental Approaches to Modification, Tübingen. [<a href="https://approaches
 
 * **Macuch Silva, V.**, Franke, M., & Degen, J. (2018, June). _Reading quantified expressions in context: Does pragmatic surprisal or strategic attention allocation predict self-paced reading times?_ Poster presented at the XPrag.de Annual Meeting, Graz. [<a href="Poster-XPrag2018.pdf" target="_blank"><b>poster</b></a>]
 
-* Franke, M., Degen, J., & **Macuch Silva, V**. (2017, September). _Probabilistic modeling of pragmatic processing and utterance production_. Poster presented at the XPrag.de Annual Meeting, Cologne. [<a href="Poster-XPrag2017.pdf" target="_blank"><b>poster</b></a>]
-
 * **Macuch Silva, V.**, & Roberts, S. (2016, April). Language Adapts To Signal Disruption In Interaction. In S.G. Roberts, C. Cuskley, L. McCrohon, L. Barceló-Coblijn, O. Feher & T. Verhoef, _The Evolution of Language: Proceedings of the 11th International Conference (EVOLANG11)_. [<a href="https://evolang.org/neworleans/pdf/EVOLANG_11_paper_20.pdf" target="_blank"><b>abstract</b></a>]
 
 * **Macuch Silva, V.**, & Roberts, S. (2015, June). _Does repair affect the emergence of structure in language?_ Poster presented at TABU Dag, Groningen. [<a href="Poster-TABU-Dag.pdf" target="_blank"><b>poster</b></a>]
