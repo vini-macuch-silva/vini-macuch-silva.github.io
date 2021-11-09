@@ -19,9 +19,9 @@ h1 {
 
 * **Macuch Silva, V.**, & Jamieson, E (2021, March). _Processing polar questions in context with varying epistemic biases in English_. 34th Annual CUNY Conference on Human Sentence Processing, Philadelphia. [<a href="https://www.cuny2021.io/wp-content/uploads/2021/02/CUNY_2021_abstract_198.pdf" target="_blank"><b>abstract</b></a>]
 
-* **Macuch Silva, V.**, & Jamieson, E (2021, February). _Processing polar questions in context with varying epistemic biases in English_. Workshop on Biased Questions: Experimental Results & Theoretical Modelling, Berlin. [<a href="https://osf.io/cqgze/" target="_blank"><b>abstract</b></a>] [<a href="https://osf.io/pu25f/" target="_blank"><b>video</b></a>]
+* **Macuch Silva, V.**, & Jamieson, E (2021, February). _Processing polar questions in context with varying epistemic biases in English_. Workshop on Biased Questions: Experimental Results & Theoretical Modelling, Berlin. [<a href="https://osf.io/cqgze/" target="_blank"><b>abstract</b></a>]
 
-* Roberts, F., **Macuch Silva, V.**, & Rohde, H. (2020, July [postponed to July 2021]). _Non-actual 'actual': Expectations for upcoming figurative language arise from cues about message truth_. 5th Usage-Based Linguistics Conference, Tel Aviv. [<a href="UBL-submission.pdf" target="_blank"><b>abstract</b></a>] [<a href="https://www.youtube.com/watch?v=JeF2amQ818g" target="_blank"><b>video</b></a>]
+* Roberts, F., **Macuch Silva, V.**, & Rohde, H. (2020, July [postponed to July 2021]). _Non-actual 'actual': Expectations for upcoming figurative language arise from cues about message truth_. 5th Usage-Based Linguistics Conference, Tel Aviv. [<a href="UBL-submission.pdf" target="_blank"><b>abstract</b></a>]
 
 * **Macuch Silva, V.**, Roberts, F., & Rohde, H. (2020, June [postponed to January 2021]). _Do truth-endorsing adjectives act as cues to non-literality in the processing of modified metaphors? A psycholinguistic investigation of English 'actual', 'literal', and 'real'_. TExMod2020: Workshop on Theoretical and
 Experimental Approaches to Modification, Tübingen. [<a href="https://approachesmodificationhome.files.wordpress.com/2021/01/macuch-silva_roberts_rohde_texmod.pdf" target="_blank"><b>abstract</b></a>]
@@ -37,11 +37,9 @@ Experimental Approaches to Modification, Tübingen. [<a href="https://approaches
 
 **Conference posters**
 
-* **Macuch Silva, V.**, Cummins, C., & Franke, M. (2020, July). _Modeling manipulative language use_. Poster presented at CogSci 2020 Virtual Conference. [<a href="https://cognitivesciencesociety.org/cogsci20/papers/0382/0382.pdf" target="_blank"><b>abstract</b></a>] [<a href="Poster-CogSci2020.pdf" target="_blank"><b>poster</b></a>] [<a href="Poster-video-CogSci2020.mp4" target="_blank"><b>summary video</b></a>]
+* **Macuch Silva, V.**, Cummins, C., & Franke, M. (2020, July). _Modeling manipulative language use_. Poster presented at CogSci 2020 Virtual Conference. [<a href="https://cognitivesciencesociety.org/cogsci20/papers/0382/0382.pdf" target="_blank"><b>abstract</b></a>] [<a href="Poster-CogSci2020.pdf" target="_blank"><b>poster</b></a>]
 
 * **Macuch Silva, V.**, & Franke, M. (2019, November). _Do the German discourse particles eigentlich and tatsächlich modulate online expectations about intended meaning?_ Poster presented at the XPrag.de Annual Meeting, Berlin. [<a href="Poster-XPrag2019.pdf" target="_blank"><b>poster</b></a>]
-
-* **Macuch Silva, V.**, Franke, M., & Degen, J. (2018, June). _Reading quantified expressions in context: Does pragmatic surprisal or strategic attention allocation predict self-paced reading times?_ Poster presented at the XPrag.de Annual Meeting, Graz. [<a href="Poster-XPrag2018.pdf" target="_blank"><b>poster</b></a>]
 
 * **Macuch Silva, V.**, & Roberts, S. (2016, April). Language Adapts To Signal Disruption In Interaction. In S.G. Roberts, C. Cuskley, L. McCrohon, L. Barceló-Coblijn, O. Feher & T. Verhoef, _The Evolution of Language: Proceedings of the 11th International Conference (EVOLANG11)_. [<a href="https://evolang.org/neworleans/pdf/EVOLANG_11_paper_20.pdf" target="_blank"><b>abstract</b></a>]
 
