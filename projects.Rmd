@@ -15,7 +15,7 @@ h1 {
 }
 </style>
 
-**Ongoing**
+**Current**
 
 * <span style="float:left">Interpreting metaphors containing stance-marking adjectives and adverbs in English.<br>with Mekselina Doganc [[**OSF project**]](https://osf.io/b3wem/)</span><div style="clear:both"></div>
 
@@ -32,7 +32,7 @@ h1 {
 <div style="clear:both"></div>
 
 
-**Finished** 
+**Past** 
 
 * <span style="float:left">Processing referring expressions containing scalar quantifiers in German.  
 <be>with [Michael Franke](http://www.home.uni-osnabrueck.de/michfranke/index.html)</span>
