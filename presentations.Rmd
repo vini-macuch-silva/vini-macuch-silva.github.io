@@ -17,6 +17,8 @@ h1 {
 
 **Peer-reviewed talks**
 
+* **Macuch Silva, V.**, & Jamieson, E (2022, February). _Interpreting negated polar questions and tracking beliefs in online discourse processing_. Workshop on Discourse obligates - How and why discourse limits the way we express what we express, 44th Annual Conference of the German Linguistics Society (DGfS), Tübingen. [<a href="https://uni-tuebingen.de/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NDYwNTYxMDgsImV4cCI6MTY0NjE0NjA5OSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW5cL1VuaV9UdWViaW5nZW5cL1NGQlwvU0ZCXzgzM1wvREdmU18yMDIyX0NvbmZlcmVuY2VfQm9va2xldF8xOC4wMi4yMDIyLnBkZiIsInBhZ2UiOjIxMTIyMn0.bNaS8CnnC1lDq6rLCmwn96Lw3W6Uv_NCoreiQr0i9Hc/DGfS_2022_Conference_Booklet_18.02.2022.pdf#page=272" target="_blank"><b>abstract</b></a>]
+
 * **Macuch Silva, V.**, & Jamieson, E (2021, March). _Processing polar questions in context with varying epistemic biases in English_. 34th Annual CUNY Conference on Human Sentence Processing, Philadelphia. [<a href="https://www.cuny2021.io/wp-content/uploads/2021/02/CUNY_2021_abstract_198.pdf" target="_blank"><b>abstract</b></a>]
 
 * **Macuch Silva, V.**, & Jamieson, E (2021, February). _Processing polar questions in context with varying epistemic biases in English_. Workshop on Biased Questions: Experimental Results & Theoretical Modelling, Berlin. [<a href="https://osf.io/cqgze/" target="_blank"><b>abstract</b></a>]
