@@ -28,7 +28,7 @@ h1 {
 * <span style="float:left">Producing referring expressions containing scalars quantifiers in manipulative contexts in German.<br>with [Chris Cummins](http://www.crcummins.com/) and [Michael Franke](http://www.home.uni-osnabrueck.de/michfranke/index.html)</span>
 <div style="clear:both"></div>
 
-* <span style="float:left">Processing referring expressions containing discourse particles in German.<br>with [Laine Stranahan](http://www.lainestranahan.com/), Mathias Stöber, [Michael Franke](http://www.home.uni-osnabrueck.de/michfranke/index.html), and [Timo Roettger](https://timo-roettger.weebly.com/)</span>
+* <span style="float:left">Processing referring expressions containing discourse particles in German.<br>with [Laine Stranahan](http://www.lainestranahan.com/), [Michael Franke](http://www.home.uni-osnabrueck.de/michfranke/index.html), and [Timo Roettger](https://timo-roettger.weebly.com/)</span>
 <div style="clear:both"></div>
 
 
