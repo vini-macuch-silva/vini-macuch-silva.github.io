@@ -18,9 +18,9 @@ h1 {
 
 <p class="aligncenter"><img src="images/profile.png" alt="Profile picture" align="middle" style="width:145px;height:190px;border:0.7px solid black;"></p>
 
-I'm a doctoral researcher in the [Cognitive Modeling group at the Institute of Cognitive Science](https://www.ikw.uni-osnabrueck.de/en/research_groups/cognitive_modeling/home.html), Osnabrück University, and in the [Semantics and Pragmatics group at the Leibniz-Centre General Linguistics (ZAS)](https://www.leibniz-zas.de/en/research/research-areas/semantics-pragmatics). In my PhD, supervised by [Michael Franke](https://michael-franke.github.io/heimseite/) and [Manfred Krifka](https://www.leibniz-zas.de/en/people/details/krifka-manfred/manfred-krifka), I'm investigating semantic and pragmatic prediction in incremental language interpretation, with a focus on the processing of epistemicity cues in English and German.
+I'm a doctoral researcher in the [Cognitive Modeling group at the Institute of Cognitive Science](https://www.ikw.uni-osnabrueck.de/en/research_groups/cognitive_modeling/home.html), Osnabrück University, and in the [Semantics and Pragmatics group at the Leibniz-Centre General Linguistics (ZAS)](https://www.leibniz-zas.de/en/research/research-areas/semantics-pragmatics). In my PhD, supervised by [Michael Franke](https://michael-franke.github.io/heimseite/) and [Manfred Krifka](https://www.leibniz-zas.de/en/people/details/krifka-manfred/manfred-krifka), I'm investigating semantic and pragmatic prediction in incremental language interpretation, with a focus on the processing of epistemicity markers in English and German.
 
-I'm broadly interested in the interplay between language, cognition, and interaction. I'm particularly interested in how context constrains the communicative strategies people use to understand one another. In my research I use primarily experimental methods to investigate:
+I'm broadly interested in the interplay between language, cognition, and interaction. I'm particularly interested in how people create and manage meaning in context, and in the communicative strategies they use to do so. In my research I use primarily experimental methods to investigate:
 
 * how linguistic and extralinguistic cues modulate people's discourse expectations and in turn affect their understanding and their ascription of actions and mental states;
 
