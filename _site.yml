@@ -23,5 +23,5 @@ navbar:
     - image: images/OSF.png
       href: https://osf.io/7wd6e/
 output: 
-    radix::radix_article:
+    distill::distill_article:
         css: styles.css

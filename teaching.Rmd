@@ -19,6 +19,8 @@ I taught in the cognitive science program at the Osnabrück University in the ac
 
 **Past courses**
 
+* <span style="font-size:11pt;font-weight:bold;">[2022]</span> Introduction to generalized linear modeling for linguists (Göttingen Summer School in Linguistics 7)
+
 * <span style="font-size:11pt;font-weight:bold;">[2020/ 2021]</span> Experimental linguistics reading club
 
 * <span style="font-size:11pt;font-weight:bold;">[2020/ 2021]</span> Language and thought
