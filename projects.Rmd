@@ -17,18 +17,16 @@ h1 {
 
 **Current**
 
-* <span style="float:left">Interpreting metaphors containing stance-marking adjectives and adverbs in English.<br>with Mekselina Doganc [[**OSF project**]](https://osf.io/b3wem/)</span><div style="clear:both"></div>
+* <span style="float:left">Interpreting metaphors containing intensifying adjectives and adverbs in English.<br>with Mekselina Doganc [[**OSF project**]](https://osf.io/b3wem/)</span><div style="clear:both"></div>
 
-* <span style="float:left">Processing polar questions in contexts with varying epistemic biases in English and German.<br>with [E Jamieson](https://ejamieson.com/) [[**OSF project English**]](https://osf.io/7a2jk/)[[**OSF project German**]](https://osf.io/2ndf3/)</span>
+* <span style="float:left">Processing negated polar questions in contexts with varying epistemic biases in English and German.<br>with [E Jamieson](https://ejamieson.com/) [[**OSF project English**]](https://osf.io/7a2jk/)[[**OSF project German**]](https://osf.io/2ndf3/)</span>
 <div style="clear:both"></div>
 
-* <span style="float:left">Processing metaphors containing stance-marking adjectives in English.<br>with Ffion Roberts and [Hannah Rohde](http://www.lel.ed.ac.uk/~hrohde/) [[**OSF project**]](https://osf.io/5v9xf/)</span> 
+* <span style="float:left">Processing metaphors containing intensifying adjectives in English.<br>with Ffion Roberts and [Hannah Rohde](http://www.lel.ed.ac.uk/~hrohde/) [[**OSF project**]](https://osf.io/5v9xf/)</span> 
 <div style="clear:both"></div>
 
-* <span style="float:left">Producing referring expressions containing scalars quantifiers in manipulative contexts in German.<br>with [Chris Cummins](http://www.crcummins.com/) and [Michael Franke](http://www.home.uni-osnabrueck.de/michfranke/index.html)</span>
-<div style="clear:both"></div>
 
-* <span style="float:left">Processing referring expressions containing discourse particles in German.<br>with [Laine Stranahan](http://www.lainestranahan.com/), [Michael Franke](http://www.home.uni-osnabrueck.de/michfranke/index.html), and [Timo Roettger](https://timo-roettger.weebly.com/)</span>
+* <span style="float:left">Processing referring expressions containing modal particles in German.<br>with [Laine Stranahan](http://www.lainestranahan.com/), [Michael Franke](http://www.home.uni-osnabrueck.de/michfranke/index.html), and [Timo Roettger](https://timo-roettger.weebly.com/)</span>
 <div style="clear:both"></div>
 
 
