@@ -16,7 +16,7 @@ h1 {
 }
 </style>
 
-<p class="aligncenter"><img src="images/profile.png" alt="Profile picture" align="middle" style="width:145px;height:190px;border:0.7px solid black;"></p>
+<p class="aligncenter"><img src="images/profile.png" alt="Profile picture" align="middle" style="width:155px;height:175px;border:0.7px solid black;"></p>
 
 I'm a post-doctoral researcher working in the [Making Numbers Meaningful](https://bodowinter.com/FLF.html) project led by [Bodo Winter](https://bodowinter.com/) at the [Department of English Language and Linguistics](https://www.birmingham.ac.uk/schools/edacs/departments/englishlanguage/index.aspx), University of Birmingham. 
 
@@ -26,6 +26,6 @@ I'm interested in how people use language to create and manage meaning in commun
 
 * how pragmatic and interactional aspects of human communication affect the emergence and evolution of linguistic meaning and structure.
 
-In my PhD research, supervised by [Michael Franke](https://michael-franke.github.io/heimseite/) and [Manfred Krifka](https://www.leibniz-zas.de/en/people/details/krifka-manfred/manfred-krifka), I investigated how pragmatic expectation affects the incremental interpretation of utterances containing indexical markers of epistemicity in English and German.
+In my PhD, supervised by [Michael Franke](https://michael-franke.github.io/heimseite/) and [Manfred Krifka](https://www.leibniz-zas.de/en/people/details/krifka-manfred/manfred-krifka), I investigated pragmatic prediction in the incremental interpretation of utterances containing indexical markers of epistemicity in English and German.
 
 Aside from being interested in theoretical issues in linguistics and cognitive science, I'm also interested in issues related to research design and methodology, and I occasionally teach basic data analysis and statistical modeling skills.
