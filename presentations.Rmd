@@ -17,7 +17,7 @@ h1 {
 
 **Upcoming presentations**
 
-* **Macuch Silva, V.**, Roettger, T., & Franke, M. (2023, June). _Processing German modal particles and predicting referents in incremental interpreation_. LingCologne 2023, Cologne.
+* **Macuch Silva, V.**, Roettger, T., & Franke, M. (2023, June). _Processing German modal particles and predicting referents in incremental interpreation_. LingCologne 2023, Cologne. [<a href="https://lingcologne.uni-koeln.de/e-book-of-abstracts/macuch-silva-et-al-processing-german-modal-particles-and-predicting-referents-in-incremental-interpretation" target="_blank"><b>abstract</b></a>] [<a href="mouse-tracking-poster.pdf" target="_blank"><b>poster</b></a>]
 
 * **Macuch Silva, V.**, Lorson, A., Kinsella, A., Woodin, G., & Winter, B. (2023, August). _A corpus analysis of English change-of-state verbs used to talk about quantity_. 16th International Cognitive Linguistics Conference, Düsseldorf.
 
