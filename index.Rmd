@@ -28,4 +28,4 @@ I'm interested in how people use language to create and manage meaning in commun
 
 In my PhD, supervised by [Michael Franke](https://michael-franke.github.io/heimseite/) and [Manfred Krifka](https://www.leibniz-zas.de/en/people/details/krifka-manfred/manfred-krifka), I investigated pragmatic prediction in the incremental interpretation of utterances containing indexical markers of epistemic stance in English and German.
 
-Aside from being interested in theoretical issues in linguistics and cognitive science, I'm also interested in issues related to research design and methodology, and I occasionally teach basic data analysis and statistical modeling skills.
+Aside from being interested in theoretical issues in linguistics and cognitive science, I'm also interested in issues related to research design and methodology, and I teach basic data analysis and statistical modeling skills.

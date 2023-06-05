@@ -15,7 +15,7 @@ h1 {
 }
 </style>
 
-I taught in the cognitive science program at the University of Osnabrück in the academic year 2020/ 2021. During this period, I designed, instructed, and assessed all my courses (with the help of a wonderful teaching assistant). I also taught occasional guest seminar sessions at the University of Osnabrück and the University of Tübingen as well as a course at the Göttingen Summer School in Linguistics.
+I taught in the cognitive science program at the University of Osnabrück in the academic year 2020/ 2021. During this period, I designed, instructed, and assessed all my courses (with the help of a wonderful teaching assistant). I also taught guest seminar sessions at the University of Osnabrück and the University of Tübingen as well as a course at the Göttingen Summer School in Linguistics.
 
 **Past courses**
 
