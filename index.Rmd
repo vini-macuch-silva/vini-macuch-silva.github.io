@@ -20,7 +20,7 @@ h1 {
 
 I'm a post-doctoral researcher working in the [Making Numbers Meaningful](https://bodowinter.com/FLF.html) project led by [Bodo Winter](https://bodowinter.com/) at the [Department of English Language and Linguistics](https://www.birmingham.ac.uk/schools/edacs/departments/englishlanguage/index.aspx), University of Birmingham. 
 
-I'm interested in how people use language to create and manage meaning in communication, both when interacting with others and when using and interpreting language in various other settings. In my research I use primarily quantitative empirical methods, including controlled experimentation as well as computational and corpus analysis, to investigate issues related to pragmatic inferencing, strategic language use, argumentation and stance-taking, as well as expressive and affective meaning.
+I'm interested in how people use language to create and manage meaning in communication, both when interacting with others and when producing and interpreting language in various other settings. In my research I use primarily quantitative empirical methods, including controlled experimentation as well as computational and corpus analysis, to investigate issues related to pragmatic inferencing, strategic communication, argumentation and stance-taking, as well as expressive and affective meaning.
 
 In my PhD, supervised by [Michael Franke](https://michael-franke.github.io/heimseite/) and [Manfred Krifka](https://www.leibniz-zas.de/en/people/details/krifka-manfred/manfred-krifka), I investigated pragmatic prediction in the incremental interpretation of utterances containing indexical markers of epistemic stance in English and German.
 
