@@ -15,14 +15,11 @@ h1 {
 }
 </style>
 
-**Upcoming presentations**
-
-* **Macuch Silva, V.**, Lorson, A., Kinsella, A., Woodin, G., & Winter, B. (2023, August). _A corpus analysis of English change-of-state verbs used to talk about quantity_. 16th International Cognitive Linguistics Conference, Düsseldorf.
+**Peer-reviewed talks**
 
 * **Macuch Silva, V.**, Lorson, A., & Winter, B. (2023, September). _Strategic use of English quantifiers in the reporting of quantitative information_. The 10th biennial meeting of Experimental Pragmatics, Paris.
 
-
-**Peer-reviewed talks**
+* **Macuch Silva, V.**, Lorson, A., Kinsella, A., Woodin, G., & Winter, B. (2023, August). _A corpus analysis of English change-of-state verbs used to talk about quantity_. 16th International Cognitive Linguistics Conference, Düsseldorf.
 
 * **Macuch Silva, V.**, Lorson, A., & Winter, B. (2023, March). _Strategic use of quantifiers in reporting statistics_. Annual meeting of the General Psychology section of the German Psychological Society (DGPs), Trier. [<a href="https://coms.events/teap-2023-trier/data/abstracts/en/abstract_0544.html" target="_blank"><b>abstract</b></a>]
 
@@ -47,6 +44,8 @@ Experimental Approaches to Modification, Tübingen. [<a href="https://approaches
 
 
 **Conference posters**
+
+* Lorson, A., **Macuch Silva, V.**, Hart, C., & Winter, B (2023, September). _Using co-speech gestures strategically to influence quantifier interpretation_. The 10th biennial meeting of Experimental Pragmatics, Paris.
 
 * **Macuch Silva, V.**, Roettger, T., & Franke, M. (2023, June). _Processing German modal particles and predicting referents in incremental interpretation_. LingCologne 2023, Cologne. [<a href="https://lingcologne.uni-koeln.de/e-book-of-abstracts/macuch-silva-et-al-processing-german-modal-particles-and-predicting-referents-in-incremental-interpretation" target="_blank"><b>abstract</b></a>] [<a href="mouse-tracking-poster.pdf" target="_blank"><b>poster</b></a>]
 
