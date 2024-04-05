@@ -15,31 +15,20 @@ h1 {
 }
 </style>
 
+**DiscoMatiX**
+
 Together with Clare Patterson and Marian Marchal, I organize DiscoMatiX, a group of (early career) researchers working on **Disco**urse and prag**Mati**cs using e**X**perimental approaches. Visit our website (https://discomatix.github.io/) to find out more.
 
-**Current**
+**Ongoing projects**
 
 * <span style="float:left">Interpreting metaphors containing intensifying adjectives and adverbs in English.<br>with Mekselina Doganc [[**OSF project**]](https://osf.io/b3wem/)</span><div style="clear:both"></div>
 
-* <span style="float:left">Processing negated polar questions in contexts with varying epistemic biases in English and German.<br>with [E Jamieson](https://ejamieson.com/) [[**OSF project English**]](https://osf.io/7a2jk/)[[**OSF project German**]](https://osf.io/2ndf3/)</span>
+* <span style="float:left">Processing negated polar questions with epistemic biases in English and German.<br>with [E Jamieson](https://ejamieson.com/) [[**OSF project English**]](https://osf.io/7a2jk/)[[**OSF project German**]](https://osf.io/2ndf3/)</span>
 <div style="clear:both"></div>
 
 * <span style="float:left">Processing metaphors containing intensifying adjectives in English.<br>with Ffion Roberts and [Hannah Rohde](http://www.lel.ed.ac.uk/~hrohde/) [[**OSF project**]](https://osf.io/5v9xf/)</span> 
 <div style="clear:both"></div>
 
 
-* <span style="float:left">Processing referring expressions containing modal particles in German.<br>with [Laine Stranahan](http://www.lainestranahan.com/), [Michael Franke](http://www.home.uni-osnabrueck.de/michfranke/index.html), and [Timo Roettger](https://timo-roettger.weebly.com/)</span>
-<div style="clear:both"></div>
-
-
-**Past** 
-
-* <span style="float:left">Processing referring expressions containing scalar quantifiers in German.  
-<be>with [Michael Franke](http://www.home.uni-osnabrueck.de/michfranke/index.html)</span>
-<div style="clear:both"></div>
-
-* <span style="float:left">Multimodality and the emergence of a new communication system in face-to-face interaction.<br>with [Aslı Özyürek](https://www.mpi.nl/people/ozyurek-asli), [Judith Holler](https://www.mpi.nl/people/holler-judith), and [Séan Roberts](https://www.cardiff.ac.uk/people/view/1742244-)</span>
-<div style="clear:both"></div>
-
-* <span style="float:left">Interaction and the emergence of systematic linguistic structure.<br>with [Séan Roberts](https://www.cardiff.ac.uk/people/view/1742244-)</span>
+* <span style="float:left">Processing utterances containing modal particles in German.<br>with [Laine Stranahan](http://www.lainestranahan.com/), [Michael Franke](http://www.home.uni-osnabrueck.de/michfranke/index.html), and [Timo Roettger](https://timo-roettger.weebly.com/)</span>
 <div style="clear:both"></div>
