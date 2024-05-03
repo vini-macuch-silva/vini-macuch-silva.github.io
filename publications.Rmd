@@ -21,7 +21,7 @@ h1 {
 
 * **Macuch-Silva, V.**, Lorson, A., Franke, M., Cummins, C., & Winter, B. (revise & resubmit). Strategic use of English quantifiers in the reporting of quantitative information. _Discourse Processes_. 
 
-* Lorson, A., **Macuch-Silva, V.**, Hart, C., & Winter, B. (revise & resubmit). Gesture size affects numerical estimates in quantifier comprehension. _Journal of Experimental Psychology: Learning, Memory, and Cognition_.
+* Lorson, A., **Macuch-Silva, V.**, Hart, C., & Winter, B. (accepted). Gesture size affects numerical estimates in quantifier comprehension. _Journal of Experimental Psychology: Learning, Memory, and Cognition_.
 
 * **Macuch-Silva, V.**, & Franke, M. (2021). Pragmatic Prediction in the Processing of Referring Expressions Containing Scalar Quantifiers. _Frontiers in Psychology_. https://doi.org/10.3389/fpsyg.2021.662050 [<a href="https://doi.org/10.5281/zenodo.5156186" target="_blank"><b>open materials</b></a>]
 
