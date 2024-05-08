@@ -14,8 +14,6 @@ navbar:
     - text: "Teaching"
       href: teaching.html
   right:
-    - icon: fab fa-twitter
-      href: https://twitter.com/MacuchSilvaVini
     - icon: fab fa-github
       href: https://github.com/vini-macuch-silva
     - image: images/ORCID-iD_icon-bw-24x24.png

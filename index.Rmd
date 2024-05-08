@@ -16,7 +16,7 @@ h1 {
 }
 </style>
 
-<p class="aligncenter"><img src="images/profile.png" alt="Profile picture" align="middle" style="width:165px;height:175px;border:0.7px solid black;"></p>
+<p class="aligncenter"><img src="images/profile.png" alt="Profile picture" align="middle" style="width:170px;height:180px;border:0.7px solid black;"></p>
 
 I'm a post-doctoral researcher working in the [Making Numbers Meaningful](https://bodowinter.com/FLF.html) project led by [Bodo Winter](https://bodowinter.com/) at the [Department of English Language and Linguistics](https://www.birmingham.ac.uk/schools/edacs/departments/englishlanguage/index.aspx), University of Birmingham. 
 
