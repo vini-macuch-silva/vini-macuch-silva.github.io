@@ -29,6 +29,5 @@ Together with Clare Patterson and Marian Marchal, I organize DiscoMatiX, a group
 * <span style="float:left">Processing metaphors containing intensifying adjectives in English.<br>with Ffion Roberts and [Hannah Rohde](http://www.lel.ed.ac.uk/~hrohde/) [[**OSF project**]](https://osf.io/5v9xf/)</span> 
 <div style="clear:both"></div>
 
-
 * <span style="float:left">Processing utterances containing modal particles in German.<br>with [Laine Stranahan](http://www.lainestranahan.com/), [Michael Franke](http://www.home.uni-osnabrueck.de/michfranke/index.html), and [Timo Roettger](https://timo-roettger.weebly.com/)</span>
 <div style="clear:both"></div>

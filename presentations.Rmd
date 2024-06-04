@@ -15,6 +15,12 @@ h1 {
 }
 </style>
 
+**Upcoming talks**
+
+* **Macuch-Silva, V.**, Woodin, G., Lorson, A., & Winter, B. (2024, July). _Goal bias in using spatial language to describe changing quantities_. The 46th Annual Meeting of the Cognitive Science Society, Rotterdam.
+
+* **Macuch-Silva, V.**, & Carrol, G. (2024, September). _He’s a real weasel: Interpreting adjectival markers of stance and deriving non-literal meaning_. The 30th Architectures and Mechanisms for Language Processing conference, Edinburgh.
+
 **Peer-reviewed talks**
 
 * **Macuch-Silva, V.**, Lorson, A., & Winter, B. (2023, September). _Strategic use of English quantifiers in the reporting of quantitative information_. The 10th biennial meeting of Experimental Pragmatics, Paris.
