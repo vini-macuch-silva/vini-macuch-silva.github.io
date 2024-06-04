@@ -18,16 +18,3 @@ h1 {
 **DiscoMatiX**
 
 Together with Clare Patterson and Marian Marchal, I organize DiscoMatiX, a group of (early career) researchers working on **Disco**urse and prag**Mati**cs using e**X**perimental approaches. Visit our website (https://discomatix.github.io/) to find out more.
-
-**Ongoing projects**
-
-* <span style="float:left">Interpreting metaphors containing intensifying adjectives and adverbs in English.<br>with Mekselina Doganc [[**OSF project**]](https://osf.io/b3wem/)</span><div style="clear:both"></div>
-
-* <span style="float:left">Processing negated polar questions with epistemic biases in English and German.<br>with [E Jamieson](https://ejamieson.com/) [[**OSF project English**]](https://osf.io/7a2jk/)[[**OSF project German**]](https://osf.io/2ndf3/)</span>
-<div style="clear:both"></div>
-
-* <span style="float:left">Processing metaphors containing intensifying adjectives in English.<br>with Ffion Roberts and [Hannah Rohde](http://www.lel.ed.ac.uk/~hrohde/) [[**OSF project**]](https://osf.io/5v9xf/)</span> 
-<div style="clear:both"></div>
-
-* <span style="float:left">Processing utterances containing modal particles in German.<br>with [Laine Stranahan](http://www.lainestranahan.com/), [Michael Franke](http://www.home.uni-osnabrueck.de/michfranke/index.html), and [Timo Roettger](https://timo-roettger.weebly.com/)</span>
-<div style="clear:both"></div>

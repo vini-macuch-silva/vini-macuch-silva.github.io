@@ -15,7 +15,7 @@ h1 {
 }
 </style>
 
-**Upcoming talks**
+**Upcoming presentations**
 
 * **Macuch-Silva, V.**, Woodin, G., Lorson, A., & Winter, B. (2024, July). _Goal bias in using spatial language to describe changing quantities_. The 46th Annual Meeting of the Cognitive Science Society, Rotterdam.
 
