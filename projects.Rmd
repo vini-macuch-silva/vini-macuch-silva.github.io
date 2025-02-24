@@ -17,4 +17,4 @@ h1 {
 
 **DiscoMatiX**
 
-Together with Clare Patterson and Marian Marchal, I organize DiscoMatiX, a group of (early career) researchers working on **Disco**urse and prag**Mati**cs using e**X**perimental approaches. Visit our website (https://discomatix.github.io/) to find out more.
+Together with Clare Patterson and Morgan Moyer, I organize DiscoMatiX, a group of researchers working on **Disco**urse and prag**Mati**cs using e**X**perimental approaches. Visit our website (https://discomatix.github.io/) to find out more.

@@ -22,7 +22,7 @@ h1 {
 * **Macuch-Silva, V.**, & Carrol, G.. He’s a real weasel: Interpreting adjectival markers of stance and deriving non-literal meaning.
 
 * **Macuch-Silva, V.**, & Jamieson, E. Interpreting questions with epistemic biases and
-tracking questioner beliefs in online processing.
+tracking questioner beliefs in online processing. https://lingbuzz.net/lingbuzz/008832?_s=MVZtoie_Rq8GOzk2&_k=6nH-n8R2DX5pT6Ib
 
 
 **Journal papers**
@@ -38,7 +38,7 @@ tracking questioner beliefs in online processing.
 
 **Papers in edited volumes**
 
-* Jamieson, E, & **Macuch-Silva, V.** (joint first authors, to appear). Psycholinguistic processing tasks and the study of question bias. In Benz, A., Krifka, M., Trinh, T. and Yatushiro, K. (eds.) _Biased Questions: Experimental Results and Theoretical Modelling_.
+* Jamieson, E, & **Macuch-Silva, V.** (joint first authors, 2025). Psycholinguistic processing tasks and the study of question bias. In Benz, A., Krifka, M., Trinh, T. and Yatushiro, K. (eds.) _Biased Questions: Experimental Results and Theoretical Modelling_.
 
 
 **Conference papers**
