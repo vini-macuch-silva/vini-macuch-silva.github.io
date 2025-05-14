@@ -15,6 +15,12 @@ h1 {
 }
 </style>
 
+**Upcoming courses**
+
+<span style="font-size:11pt;font-weight:bold;">July 2025</span>
+
+* <span style="font-size:11pt;font-weight:bold;">[Summer School "Methods in Language Sciences", Ghent]</span> Introduction to statistics with R [[**webpage**]](https://www.mils.ugent.be/module12-introduction-to-statistics-for-linguistics/)
+
 **Past courses**
 
 <span style="font-size:11pt;font-weight:bold;">2022</span>
