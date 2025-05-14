@@ -1,0 +1,68 @@
+---
+title: "Presentations"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<style>
+body {
+  text-align: justify}
+
+h1 {
+  text-align: center
+}
+</style>
+
+<!-- **Upcoming presentations** -->
+
+**Peer-reviewed talks**
+
+* Perlman, M., & **Macuch-Silva, V.** (2024, May). _Do semiotics experiments really show the "superiority" of gesture over vocalization for iconic representation? And even if they do, does it matter?_ 15th International Conference on the Evolution of Language, Madison.
+
+* **Macuch-Silva, V.**, Lorson, A., & Winter, B. (2023, September). _Strategic use of English quantifiers in the reporting of quantitative information_. The 10th biennial meeting of Experimental Pragmatics, Paris.
+
+* **Macuch-Silva, V.**, Lorson, A., Kinsella, A., Woodin, G., & Winter, B. (2023, August). _A corpus analysis of English change-of-state verbs used to talk about quantity_. 16th International Cognitive Linguistics Conference, Düsseldorf.
+
+* **Macuch-Silva, V.**, Lorson, A., & Winter, B. (2023, March). _Strategic use of quantifiers in reporting statistics_. Annual meeting of the General Psychology section of the German Psychological Society (DGPs), Trier.
+
+* **Macuch-Silva, V.**, & Jamieson, E (2022, February). _Interpreting negated polar questions and tracking beliefs in online discourse processing_. Workshop on Discourse obligates - How and why discourse limits the way we express what we express, 44th Annual Conference of the German Linguistics Society (DGfS), Tübingen.
+
+* **Macuch-Silva, V.**, & Jamieson, E (2021, March). _Processing polar questions in context with varying epistemic biases in English_. 34th Annual CUNY Conference on Human Sentence Processing, Philadelphia.
+
+* **Macuch-Silva, V.**, & Jamieson, E (2021, February). _Processing polar questions in context with varying epistemic biases in English_. Workshop on Biased Questions: Experimental Results & Theoretical Modelling, Berlin.
+
+* Roberts, F., **Macuch-Silva, V.**, & Rohde, H. (2020, July [postponed to July 2021]). _Non-actual 'actual': Expectations for upcoming figurative language arise from cues about message truth_. 5th Usage-Based Linguistics Conference, Tel Aviv.
+
+* **Macuch-Silva, V.**, Roberts, F., & Rohde, H. (2020, June [postponed to January 2021]). _Do truth-endorsing adjectives act as cues to non-literality in the processing of modified metaphors? A psycholinguistic investigation of English 'actual', 'literal', and 'real'_. TExMod2020: Workshop on Theoretical and
+Experimental Approaches to Modification, Tübingen.
+
+* **Macuch-Silva, V.**, & Franke, M. (2018, June). _Reading quantified expressions in context: Does pragmatic surprisal or strategic attention allocation predict self-paced reading times?_ Workshop on The pragmatics of quantifiers: implicature and presupposition – experiment and theory, Berlin.
+
+* **Macuch-Silva, V.**, Holler, J., Özyürek, A., & Roberts, S. G. (2018). Modality-specific effects on language emergence - and why looking at interaction also matters. In H. Little & A. Micklos (Eds.), _The proceedings of the evolang xii modality matters workshop_, 16 April, 2018.
+
+* **Macuch-Silva, V.**, Roberts, S., Holler, J., & Özyürek, A. (2017, September). _An experimental study of multimodal communication and early language emergence_. Protolang 5, Barcelona.
+
+* **Macuch-Silva, V.**, & Roberts, S. (2016) Exploring the Role of Interaction in the Emergence of Linguistic Structure. In S. Roberts & G. Mills (Eds.) _Proceedings of EvoLang XI, Language Adapts to Interaction Workshop_, 21 March, 2016.
+
+
+**Conference posters**
+
+* **Macuch-Silva, V.**, & Carrol, G. (2024, September). _He’s a real weasel: Interpreting adjectival markers of stance and deriving non-literal meaning_. The 30th Architectures and Mechanisms for Language Processing conference, Edinburgh.
+
+* **Macuch-Silva, V.**, Woodin, G., Lorson, A., & Winter, B. (2024, July). _Goal bias in using spatial language to describe changing quantities_. The 46th Annual Meeting of the Cognitive Science Society, Rotterdam.
+
+* Lorson, A., **Macuch-Silva, V.**, Hart, C., & Winter, B (2023, September). _Using co-speech gestures strategically to influence quantifier interpretation_. The 10th biennial meeting of Experimental Pragmatics, Paris.
+
+* **Macuch-Silva, V.**, Roettger, T., & Franke, M. (2023, June). _Processing German modal particles and predicting referents in incremental interpretation_. LingCologne 2023, Cologne.
+
+* **Macuch-Silva, V.**, Lorson, A., & Winter, B. (2023, June). _Strategic use of quantifiers in reporting statistics_. 6th Mathematical Cognition and Learning Society Annual Conference, Loughborough.
+
+* **Macuch-Silva, V.**, Cummins, C., & Franke, M. (2020, July). _Modeling manipulative language use_. Poster presented at CogSci 2020 Virtual Conference.
+
+* **Macuch-Silva, V.**, & Franke, M. (2019, November). _Do the German discourse particles eigentlich and tatsächlich modulate online expectations about intended meaning?_ Poster presented at the XPrag.de Annual Meeting, Berlin.
+
+* **Macuch-Silva, V.**, & Roberts, S. (2016, April). Language Adapts To Signal Disruption In Interaction. In S.G. Roberts, C. Cuskley, L. McCrohon, L. Barceló-Coblijn, O. Feher & T. Verhoef, _The Evolution of Language: Proceedings of the 11th International Conference (EVOLANG11)_.
+
+* **Macuch-Silva, V.**, & Roberts, S. (2015, June). _Does repair affect the emergence of structure in language?_ Poster presented at TABU Dag, Groningen.

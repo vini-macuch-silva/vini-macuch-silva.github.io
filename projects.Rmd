@@ -1,0 +1,20 @@
+---
+title: "Projects"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<style>
+body {
+  text-align: justify}
+
+h1 {
+  text-align: center
+}
+</style>
+
+**DiscoMatiX**
+
+Together with Clare Patterson and Morgan Moyer, I organize DiscoMatiX, a group of researchers working on **Disco**urse and prag**Mati**cs using e**X**perimental approaches. Visit our website (https://discomatix.github.io/) to find out more.

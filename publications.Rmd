@@ -1,0 +1,49 @@
+---
+title: "Publications"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<style>
+body {
+  text-align: justify}
+
+h1 {
+  text-align: center
+}
+</style>
+
+**In preparation**
+
+* **Macuch-Silva, V.**, Roettger, T., & Franke, M.. Processing German modal particles and predicting referents in incremental interpretation: A mouse-tracking study.
+
+* **Macuch-Silva, V.**, & Carrol, G.. He’s a real weasel: Interpreting adjectival markers of epistemic stance and deriving non-literal meaning.
+
+* **Macuch-Silva, V.**, & Jamieson, E. Interpreting questions with epistemic biases and
+tracking questioner beliefs in online processing. https://lingbuzz.net/lingbuzz/008832
+
+
+**Journal papers**
+
+* **Macuch-Silva, V.**, Lorson, A., Franke, M., Cummins, C., & Winter, B. (2024). Strategic use of English quantifiers in the reporting of quantitative information. _Discourse Processes_. https://doi.org/10.1080/0163853X.2024.2413311
+
+* Lorson, A., **Macuch-Silva, V.**, Hart, C., & Winter, B. (2024). Gesture size affects numerical estimates in quantifier comprehension. _Journal of Experimental Psychology: Learning, Memory, and Cognition_. https://dx.doi.org/10.1037/xlm0001372
+
+* **Macuch-Silva, V.**, & Franke, M. (2021). Pragmatic Prediction in the Processing of Referring Expressions Containing Scalar Quantifiers. _Frontiers in Psychology_. https://doi.org/10.3389/fpsyg.2021.662050
+
+* **Macuch-Silva, V.**,  Holler, J., Özyürek, A., & Roberts, S. (2020). Multimodality and the origin of a novel communication system in face-to-face interaction. _Royal Society Open Science_. https://doi.org/10.1098/rsos.182056
+
+
+**Papers in edited volumes**
+
+* Jamieson, E, & **Macuch-Silva, V.** (joint first authors, 2025). Psycholinguistic processing tasks and the study of question bias. In Benz, A., Krifka, M., Trinh, T. and Yatushiro, K. (eds.) _Biased Questions: Experimental Results and Theoretical Modelling_.
+
+
+**Conference papers**
+
+* Micklos, A., **Macuch-Silva, V.**, & Fay, N. (2018). The prevalence of repair in studies of language evolution. In Cuskley, C., Flaherty, M., Little, H., McCrohon, L., Ravignani, A. & Verhoef, T. (Eds.): _The Evolution of Language: Proceedings of the 12th International Conference (EVOLANGXII)_. [<a href="http://evolang.org/torun/proceedings/paperpdfs/Evolang_12_paper_136.pdf" target="_blank"><b>paper</b></a>]
+
+
+* **Macuch-Silva, V.**, & Roberts, S. (2016). Language Adapts To Signal Disruption In Interaction. In S.G. Roberts, C. Cuskley, L. McCrohon, L. Barceló-Coblijn, O. Feher & T. Verhoef, _The Evolution of Language: Proceedings of the 11th International Conference (EVOLANG11)_. [<a href="http://evolang.org/neworleans/workshops/pdf/MacuchSilva_Lati.pdf" target="_blank"><b>paper</b></a>]
