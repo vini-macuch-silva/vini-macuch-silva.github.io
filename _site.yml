@@ -9,8 +9,8 @@ navbar:
       href: publications.html
     - text: "Presentations"
       href: presentations.html
-    - text: "Projects"
-      href: projects.html
+    - text: "DiscoMatiX"
+      href: discomatix.html
     - text: "Teaching"
       href: teaching.html
   right:
