@@ -15,9 +15,8 @@ h1 {
 }
 </style>
 
-**Upcoming presentations**
+<!-- **Upcoming presentations** -->
 
-* **Macuch-Silva, V.**, & Carrol, G. (2025, September). _He’s a real weasel: Interpreting metaphors with conventionalized markers of stance and deriving non-literal meaning_. The 11th biennial meeting of Experimental Pragmatics, Cambridge.
 
 **Peer-reviewed talks**
 
@@ -52,6 +51,8 @@ Experimental Approaches to Modification, Tübingen.
 
 
 **Conference posters**
+
+* **Macuch-Silva, V.**, & Carrol, G. (2025, September). _He’s a real weasel: Interpreting metaphors with conventionalized markers of stance and deriving non-literal meaning_. The 11th biennial meeting of Experimental Pragmatics, Cambridge.
 
 * **Macuch-Silva, V.**, & Carrol, G. (2024, September). _He’s a real weasel: Interpreting adjectival markers of stance and deriving non-literal meaning_. The 30th Architectures and Mechanisms for Language Processing conference, Edinburgh.
 

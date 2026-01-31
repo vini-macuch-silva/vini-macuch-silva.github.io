@@ -15,11 +15,11 @@ h1 {
 }
 </style>
 
-**Pending output**
+**Pending/ unpublished output**
 
-* **Macuch-Silva, V.**, Roettger, T., & Franke, M. (in prep). Processing German modal particles and predicting referents in incremental interpretation: A mouse-tracking study.
+* **Macuch-Silva, V.**, Roettger, T., & Franke, M. (in prep). Processing the German modal particles *tatsächlich* and *eigentlich* and predicting referents in incremental interpretation.
 
-* **Macuch-Silva, V.**, & Carrol, G. (in prep). He’s a real weasel: Interpreting adjectival markers of epistemic stance and deriving non-literal meaning.
+* **Macuch-Silva, V.**, & Carrol, G. (submitted). He’s a real weasel: Interpreting adjectival markers of epistemic stance and deriving non-literal meaning.
 
 * **Macuch-Silva, V.**, & Jamieson, E. Interpreting questions with epistemic biases and
 tracking questioner beliefs in online processing. https://lingbuzz.net/lingbuzz/008832

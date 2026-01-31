@@ -15,9 +15,20 @@ h1 {
 }
 </style>
 
+**Upcoming courses**
+
+<span style="font-size:11pt;font-weight:bold;">June 2026</span>
+
+* <span style="font-size:11pt;font-weight:bold;">[Netherlands Graduate School of Linguistics (LOT) Summer School, Groningen]</span> Psycholinguistics
+
+<span style="font-size:11pt;font-weight:bold;">July 2026</span>
+
+* <span style="font-size:11pt;font-weight:bold;">[Summer School "Methods in Language Sciences", Ghent]</span> Regression analysis with R
+
+
 **Past courses**
 
-<span style="font-size:11pt;font-weight:bold;">July 2025</span>
+<span style="font-size:11pt;font-weight:bold;">2025</span>
 
 * <span style="font-size:11pt;font-weight:bold;">[Summer School "Methods in Language Sciences", Ghent]</span> Introduction to statistics with R
 
