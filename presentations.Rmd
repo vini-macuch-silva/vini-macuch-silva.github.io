@@ -20,7 +20,7 @@ h1 {
 
 **Peer-reviewed talks**
 
-* **Macuch-Silva, V.**, Ladewig, S., & Kindler-Mathot, C. (2025, July). _Marking contrast multimodally: the co-occurrence of ‘eigentlich’ and Palm Ups in spoken German_. 10th Conference of the International Society for Gesture Studies, Nijmegen.
+<!-- * **Macuch-Silva, V.**, Ladewig, S., & Kindler-Mathot, C. (2025, July). _Marking contrast multimodally: the co-occurrence of ‘eigentlich’ and Palm Ups in spoken German_. 10th Conference of the International Society for Gesture Studies, Nijmegen. -->
 
 * Perlman, M., & **Macuch-Silva, V.** (2024, May). _Do semiotics experiments really show the "superiority" of gesture over vocalization for iconic representation? And even if they do, does it matter?_ 15th International Conference on the Evolution of Language, Madison.
 

@@ -17,48 +17,41 @@ h1 {
 
 **Upcoming courses**
 
-<span style="font-size:12pt;font-weight:bold;">June 2026</span>
+<span style="font-size:11pt;font-weight:bold;">June 2026</span>
 
-<span style="font-size:11pt;font-weight:bold;">Netherlands Graduate School of Linguistics (LOT) Summer School, University of Groningen</span> [[**summer school page**]](https://lotschool.nl/events/lot-summer-school-2026/)
+<span style="font-size:11pt;font-weight:bold;">Netherlands Graduate School of Linguistics (LOT) Summer School, University of Groningen</span> [[**summer school page**]](https://lotschool.nl/events/lot-summer-school-2026/#toggle-id-7)
 
-* Psycholinguistics
+* The psycholinguistics of discourse interpretation
 
 
-<span style="font-size:12pt;font-weight:bold;">July 2026</span>
+<span style="font-size:11pt;font-weight:bold;">July 2026</span>
 
 <span style="font-size:11pt;font-weight:bold;">Summer School "Methods in Language Sciences", Ghent University</span> [[**summer school page**]](https://www.mils.ugent.be/)
 
 * Regression analysis with R
 
 
+
 **Past courses**
 
-<span style="font-size:12pt;font-weight:bold;">2025</span>
-
-<span style="font-size:11pt;font-weight:bold;">Summer School "Methods in Language Sciences", Ghent University</span> 
+<span style="font-size:11pt;font-weight:bold;">Summer School "Methods in Language Sciences", Ghent University (2025)</span> 
 
 * Introduction to statistics with R
 
 
-<span style="font-size:12pt;font-weight:bold;">2022</span>
-
-<span style="font-size:11pt;font-weight:bold;">Göttingen Summer School in Linguistics 7, University of Göttingen</span> 
+<span style="font-size:11pt;font-weight:bold;">Göttingen Summer School in Linguistics 7, University of Göttingen (2022)</span> 
 
 * Introduction to generalized linear modeling for linguists
 
 
-<span style="font-size:12pt;font-weight:bold;">2020/ 2021</span>
-
-<span style="font-size:11pt;font-weight:bold;">University of Osnabrück</span> 
+<span style="font-size:11pt;font-weight:bold;">University of Osnabrück (2020/ 2021)</span> 
 
 * Experimental linguistics reading club
 
 * Language and thought
 
 
-<span style="font-size:12pt;font-weight:bold;">2020</span>
-
-<span style="font-size:11pt;font-weight:bold;">University of Osnabrück</span> 
+<span style="font-size:11pt;font-weight:bold;">University of Osnabrück (2020)</span> 
 
 * Basics of data visualization for behavioral scientists [[**course page**]](https://vini-macuch-silva.github.io/basics-of-data-viz-for-behavioral-scientists/)
 
