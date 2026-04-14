@@ -30,6 +30,8 @@ h1 {
 
 * Regression analysis with R
 
+\
+
 
 
 **Past courses**
@@ -44,14 +46,11 @@ h1 {
 * Introduction to generalized linear modeling for linguists
 
 
-<span style="font-size:11pt;font-weight:bold;">University of Osnabrück (2020/ 2021)</span> 
+<span style="font-size:11pt;font-weight:bold;">University of Osnabrück (2020 - 2021)</span> 
 
 * Experimental linguistics reading club
 
 * Language and thought
-
-
-<span style="font-size:11pt;font-weight:bold;">University of Osnabrück (2020)</span> 
 
 * Basics of data visualization for behavioral scientists [[**course page**]](https://vini-macuch-silva.github.io/basics-of-data-viz-for-behavioral-scientists/)
 
