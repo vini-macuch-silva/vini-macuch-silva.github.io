@@ -17,9 +17,6 @@ h1 {
 
 **Pending/ unpublished output**
 
-* **Macuch-Silva, V.** (under review). Experimental pragmatics. In Hartmann, S., & Speed, L. (Eds.):
-_Bloomsburry Handbook of Language and Cognition_. Bloomsburry.
-
 * **Macuch-Silva, V.**, & Carrol, G. (under review). He’s a real weasel: Processing adjectival markers of epistemic stance and deriving non-literal meaning.
 
 * **Macuch-Silva, V.**, Roettger, T., & Franke, M. (in prep). Processing the German modal particles *tatsächlich* and *eigentlich* and predicting referents in incremental interpretation.
@@ -40,6 +37,9 @@ tracking questioner beliefs in online processing. _LingBuzz_ https://lingbuzz.ne
 
 
 **Papers in edited volumes**
+
+* **Macuch-Silva, V.** (accepted). Experimental pragmatics. In Hartmann, S., & Speed, L. (Eds.):
+_Bloomsbury Handbook of Language and Cognition_. Bloomsbury.
 
 * Jamieson, E, & **Macuch-Silva, V.** (joint first authors, 2025). Psycholinguistic processing tasks and the study of question bias. In Benz, A., Krifka, M., Trinh, T. and Yatushiro, K. (eds.) _Biased Questions: Experimental Results and Theoretical Modelling_. https://langsci-press.org/catalog/book/487
 
